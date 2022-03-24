@@ -11,7 +11,7 @@ import pandas as pd
 from io import TextIOWrapper
 from typing import Dict, List, Generator
 
-from User import User
+from user import User
 
 BOTOMETER_API_URL: str = "https://botometer-pro.p.mashape.com"
 
